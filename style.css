@@ -1,0 +1,33 @@
+body
+{
+    background-color:rgb(197, 148, 156);
+    background-image: url(background.jpg);
+}
+
+div
+
+{
+    width: 800px;
+    margin: auto;
+
+}
+
+p
+
+{
+    color:red;font-size: 14pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tytul
+
+{
+    font-weight: bold;
+    font-size:14pt;
+}
+
+.text
+{
+    font-weight: normal;
+    font-size:12pt;
+}
